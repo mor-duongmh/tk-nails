@@ -44,22 +44,28 @@ export default function Footer() {
           </h4>
           <nav className="flex flex-col space-y-4">
             <a
-              href="#"
+              href="https://www.instagram.com/_tk.nail_"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-on-surface-variant hover:text-amber-600 font-body text-sm font-light transition-colors"
             >
               Instagram
             </a>
             <a
-              href="#"
+              href="https://www.tiktok.com/@tknails_naperville"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-on-surface-variant hover:text-amber-600 font-body text-sm font-light transition-colors"
             >
-              Pinterest
+              TikTok
             </a>
             <a
-              href="#"
+              href="https://www.google.com/maps/place/TK+Nails/@41.7279518,-88.1958295,14z"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-on-surface-variant hover:text-amber-600 font-body text-sm font-light transition-colors"
             >
-              Facebook
+              Google Maps
             </a>
           </nav>
         </div>

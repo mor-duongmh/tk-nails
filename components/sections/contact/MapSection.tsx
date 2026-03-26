@@ -27,7 +27,9 @@ export default function MapSection() {
             </span>
             <a
               className="mt-4 font-label text-xs tracking-widest uppercase text-primary border-b border-primary/30 hover:border-primary transition-all"
-              href="#"
+              href="https://www.google.com/maps/place/TK+Nails/@41.7279518,-88.1958295,14z"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Get Directions
             </a>
