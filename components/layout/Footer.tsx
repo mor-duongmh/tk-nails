@@ -9,7 +9,7 @@ export default function Footer() {
             TK Nails
           </div>
           <p className="font-body text-on-surface-variant text-sm font-light leading-relaxed">
-            Defining the standard of luxury nail care since 2018. An
+            Defining the standard of luxury nail care since 2008. An
             editorial-first atelier for the modern aesthetic.
           </p>
         </div>
@@ -60,7 +60,7 @@ export default function Footer() {
               TikTok
             </a>
             <a
-              href="https://www.google.com/maps/place/TK+Nails/@41.7279518,-88.1958295,14z"
+              href="https://www.google.com/maps?q=TK+Nails,+3075+Book+Rd+Suite+155,+Naperville,+IL+60564"
               target="_blank"
               rel="noopener noreferrer"
               className="text-on-surface-variant hover:text-amber-600 font-body text-sm font-light transition-colors"

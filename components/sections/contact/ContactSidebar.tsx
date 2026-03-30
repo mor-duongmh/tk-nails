@@ -6,7 +6,7 @@ export default function ContactSidebar() {
         <div>
           <h3 className="font-headline text-xl mb-6">Visit Us</h3>
           <a
-            href="https://www.google.com/maps/place/TK+Nails/@41.7279518,-88.1958295,14z"
+            href="https://www.google.com/maps?q=TK+Nails,+3075+Book+Rd+Suite+155,+Naperville,+IL+60564"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-start gap-4 group"
@@ -72,7 +72,7 @@ export default function ContactSidebar() {
           </a>
           <a
             className="w-12 h-12 rounded-full border border-primary/20 flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-all"
-            href="https://www.google.com/maps/place/TK+Nails/@41.7279518,-88.1958295,14z"
+            href="https://www.google.com/maps?q=TK+Nails,+3075+Book+Rd+Suite+155,+Naperville,+IL+60564"
             target="_blank"
             rel="noopener noreferrer"
           >

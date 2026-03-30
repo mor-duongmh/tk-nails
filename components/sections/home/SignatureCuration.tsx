@@ -45,7 +45,7 @@ export default function SignatureCuration() {
                 Signature Services
               </h3>
               <p className="font-body text-on-surface-variant font-light leading-relaxed mb-8">
-                An 80-minute immersion including a warm milk soak, volcanic stone
+                Immersion including a warm milk soak, volcanic stone
                 massage, and bespoke nail shaping with our premium gel
                 collection.
               </p>
