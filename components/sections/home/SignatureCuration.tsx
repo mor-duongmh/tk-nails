@@ -27,9 +27,12 @@ export default function SignatureCuration() {
             <div className="col-span-12 md:col-span-8 overflow-hidden rounded-xl">
               <div className="relative w-full h-[500px]">
                 <Image
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuBpyEiCOkLcMt0Qsagq8qeki3nz5CvGhlFN0soqwW8CWT6XymF9NwPrFBHPDOi87Dej16fQxvFg9rsNr1lw6NQ7lV1xBE4p1HHOmzMsYe_3HL2cA1X0vK954nZWg0WHl-yigxc3_OCrSAP0JMZcgOWoRYMJ1xIHyKYmRwO_twasXeE3pMN1rD_tSiWSgJSZCPXhDL9ZNNU5wCjFEG-s5mgsjJZm0IzfZ1xu3KgHjXOJpdWQU8EBjfW2kiWa9cqRcT85gMJJBZ7aAFo"
-                  alt="Close up of a luxury manicure with deep burgundy polish and subtle gold accents against a cream velvet background"
+                  src="/images/signature-manicure.png"
+                  alt="Signature manicure - hands in warm sunlight"
                   fill
+                  sizes="(max-width: 768px) 100vw, 66vw"
+                  quality={100}
+                  unoptimized
                   className="object-cover hover:scale-105 transition-transform duration-700"
                 />
               </div>
@@ -39,19 +42,13 @@ export default function SignatureCuration() {
                 Our Signature
               </span>
               <h3 className="font-headline text-4xl mb-6 italic">
-                The Royal Velvet
+                Signature Services
               </h3>
               <p className="font-body text-on-surface-variant font-light leading-relaxed mb-8">
                 An 80-minute immersion including a warm milk soak, volcanic stone
                 massage, and bespoke nail shaping with our premium gel
                 collection.
               </p>
-              <button className="text-primary font-label text-xs tracking-[0.2em] uppercase hover:opacity-70 transition-opacity flex items-center gap-2">
-                Discover Details{" "}
-                <span className="material-symbols-outlined text-sm">
-                  arrow_forward
-                </span>
-              </button>
             </div>
           </div>
           {/* Service 2 */}
@@ -67,12 +64,6 @@ export default function SignatureCuration() {
                 Hand-painted miniature masterpieces tailored to your personal
                 aesthetic. From minimalist lines to intricate gold leaf patterns.
               </p>
-              <button className="text-primary font-label text-xs tracking-[0.2em] uppercase hover:opacity-70 transition-opacity flex items-center gap-2">
-                Discover Details{" "}
-                <span className="material-symbols-outlined text-sm">
-                  arrow_forward
-                </span>
-              </button>
             </div>
             <div className="col-span-12 md:col-span-8 md:offset-4 overflow-hidden rounded-xl md:ml-auto">
               <div className="relative w-full h-[500px]">

@@ -18,7 +18,7 @@ export default function FoundersQuote() {
           />
         </div>
         <span className="font-label text-primary tracking-widest text-xs uppercase">
-          Thuy &amp; Khoa, Founders
+          T &amp; K, Founders
         </span>
       </div>
     </section>

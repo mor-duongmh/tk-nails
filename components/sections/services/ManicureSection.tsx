@@ -16,29 +16,27 @@ export default function ManicureSection() {
           </div>
           <div className="absolute top-1/2 -right-8 md:-right-16 -translate-y-1/2 bg-surface p-12 shadow-lg max-w-md">
             <h2 className="font-headline text-4xl mb-6 italic text-primary">Manicures</h2>
-            <div className="space-y-8">
-              <div className="flex justify-between items-start group">
-                <div>
-                  <h4 className="font-headline text-lg text-on-surface">The Signature Silk</h4>
-                  <p className="text-sm font-light text-on-surface-variant mt-1">Nourishing soak, detailed cuticle work, and high-shine buff.</p>
-                </div>
-                <span className="font-label text-primary font-semibold">$45</span>
+            <div className="space-y-5">
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Basic Manicure</h4>
+                <span className="font-label text-primary font-semibold">$20</span>
               </div>
-              <div className="flex justify-between items-start group">
-                <div>
-                  <h4 className="font-headline text-lg text-on-surface">Editorial Matte</h4>
-                  <p className="text-sm font-light text-on-surface-variant mt-1">Precision shaping followed by a sophisticated velvet finish.</p>
-                </div>
-                <span className="font-label text-primary font-semibold">$55</span>
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Gel Manicure</h4>
+                <span className="font-label text-primary font-semibold">$40</span>
               </div>
-              <div className="flex justify-between items-start group">
-                <div>
-                  <h4 className="font-headline text-lg text-on-surface">French Minimalist</h4>
-                  <p className="text-sm font-light text-on-surface-variant mt-1">The timeless classic, reimagined with ultra-fine precision lines.</p>
-                </div>
-                <span className="font-label text-primary font-semibold">$60</span>
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Dip Powder</h4>
+                <span className="font-label text-primary font-semibold">$50</span>
+              </div>
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Deluxe Manicure</h4>
+                <span className="font-label text-primary font-semibold">$35</span>
               </div>
             </div>
+            <p className="mt-6 text-xs text-on-surface font-body leading-relaxed border-t border-outline-variant/20 pt-4">
+              Soak, Shape, Cuticle Care, Exfoliating, Reflexology Hand Massage, Collagen Hand Mask and Polish.
+            </p>
           </div>
         </div>
       </div>

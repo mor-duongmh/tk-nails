@@ -37,7 +37,7 @@ export default function OurJourney() {
             <p>
               TK Nails was born from a singular vision: to create a sanctuary
               where the technical precision of a laboratory meets the aesthetic
-              soul of an art gallery. Our founders, siblings Thuy and Khoa,
+              soul of an art gallery. Our founders, siblings T and K,
               brought together decades of international experience to the heart
               of the city.
             </p>

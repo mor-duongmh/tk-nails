@@ -14,21 +14,36 @@ export default function PedicureSection() {
           />
         </div>
         <div className="absolute top-1/2 -left-8 md:-left-16 -translate-y-1/2 bg-surface p-12 shadow-lg max-w-md">
-          <h2 className="font-headline text-4xl mb-6 italic text-primary">Pedicures</h2>
-          <div className="space-y-8">
-            <div className="flex justify-between items-start">
-              <div>
-                <h4 className="font-headline text-lg text-on-surface">Mineral Soak</h4>
-                <p className="text-sm font-light text-on-surface-variant mt-1">Dead Sea salts and essential oils to restore tired feet.</p>
+          <h2 className="font-headline text-4xl mb-4 italic text-primary">Pedicures</h2>
+          <p className="text-sm text-on-surface-variant mb-6">Enjoy our signature services with our experienced and professional staff</p>
+          <div className="space-y-6">
+            <div>
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Basic Pedi</h4>
+                <span className="font-label text-primary font-semibold">$35</span>
               </div>
-              <span className="font-label text-primary font-semibold">$65</span>
+              <p className="text-xs text-on-surface font-body mt-1 leading-relaxed">Soak, Shape, Cuticle Care, Heel Buff, Exfoliating Lotion and Polish.</p>
             </div>
-            <div className="flex justify-between items-start">
-              <div>
-                <h4 className="font-headline text-lg text-on-surface">The Glass Slipper</h4>
-                <p className="text-sm font-light text-on-surface-variant mt-1">Extended massage, paraffin wrap, and flawless polish.</p>
+            <div>
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Herbal Therapy</h4>
+                <span className="font-label text-primary font-semibold">$50</span>
               </div>
-              <span className="font-label text-primary font-semibold">$85</span>
+              <p className="text-xs text-on-surface font-body mt-1 leading-relaxed">Soak with Honey Bath Bomb and Herbal Himalaya Salt, Shape, Cuticle Care, Callus Buff, Exfoliating, Reflexology Foot Massage with Hot Stone and Polish.</p>
+            </div>
+            <div>
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Honey Butter</h4>
+                <span className="font-label text-primary font-semibold">$55</span>
+              </div>
+              <p className="text-xs text-on-surface font-body mt-1 leading-relaxed">Soak with Honey Bath Bomb and Herbal Himalaya Salt, Shape, Cuticle Care, Callus Buff, Exfoliating with Honey Sugar Scrub, Parafin Wrapping, Reflexology Foot Massage with Honey Pearl Lotion and Polish.</p>
+            </div>
+            <div>
+              <div className="flex justify-between items-center">
+                <h4 className="font-headline text-lg text-on-surface">Espresso</h4>
+                <span className="font-label text-primary font-semibold">$65</span>
+              </div>
+              <p className="text-xs text-on-surface font-body mt-1 leading-relaxed">Soak with Coffee Bath Bomb and Coffee Fizzy Salt to Relax and Awaken the Senses, Gentle Exfoliation with Coffee Sugar Baby to Remove Dead Skin and Smooth the Feet, Parafin Wrapping, Hot Stone Massage, Relaxing Massage with Coffee Cream Butter for Deep Moisture and Comfort, Polish.</p>
             </div>
           </div>
         </div>
