@@ -40,12 +40,12 @@ export default function NavBar() {
             );
           })}
         </div>
-        <Link
-          href="/contact"
+        <a
+          href="tel:+16307181888"
           className="gold-gradient text-on-primary px-8 py-3 rounded-full font-label text-sm tracking-widest uppercase hover:opacity-80 transition-opacity duration-300 active:scale-95 shadow-lg shadow-primary/10"
         >
-          Book Now
-        </Link>
+          Call Now
+        </a>
       </div>
     </nav>
   );
