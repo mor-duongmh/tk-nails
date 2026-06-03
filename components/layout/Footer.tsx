@@ -67,6 +67,14 @@ export default function Footer() {
             >
               Google Maps
             </a>
+            <a
+              href="https://www.facebook.com/tknailsnaper"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-on-surface-variant hover:text-amber-600 font-body text-sm font-light transition-colors"
+            >
+              Facebook
+            </a>
           </nav>
         </div>
         <div>
