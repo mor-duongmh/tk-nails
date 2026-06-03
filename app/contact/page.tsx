@@ -5,7 +5,7 @@ import ContactSidebar from "@/components/sections/contact/ContactSidebar";
 import MapSection from "@/components/sections/contact/MapSection";
 
 export const metadata: Metadata = {
-  title: "Contact | TK Nails Editorial Atelier",
+  title: "Contact | TK Nails – Nail Atelier In Naperville",
 };
 
 export default function ContactPage() {

@@ -7,7 +7,7 @@ import SpaRituals from "@/components/sections/services/SpaRituals";
 import ServiceCTA from "@/components/sections/services/ServiceCTA";
 
 export const metadata: Metadata = {
-  title: "Services | TK Nails Editorial Atelier",
+  title: "Services | TK Nails – Nail Atelier In Naperville",
 };
 
 export default function ServicesPage() {

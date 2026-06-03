@@ -6,7 +6,7 @@ import CorePillars from "@/components/sections/about/CorePillars";
 import FoundersQuote from "@/components/sections/about/FoundersQuote";
 
 export const metadata: Metadata = {
-  title: "About | TK Nails Editorial Atelier",
+  title: "About | TK Nails – Nail Atelier In Naperville",
 };
 
 export default function AboutPage() {

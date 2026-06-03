@@ -18,9 +18,9 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "TK Nails — Editorial Atelier",
+  title: "TK Nails – Nail Atelier In Naperville",
   description:
-    "Where precision meets poetry. Experience a bespoke sanctuary designed for the modern connoisseur of beauty.",
+    "TK Nails – Luxury Nail Care in Naperville, Illinois is the premier destination for luxury nail services in a modern, relaxing setting.",
 };
 
 export default function RootLayout({
