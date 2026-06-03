@@ -1,0 +1,8 @@
+# Apache config for the TK Nails Next.js static export (IONOS webspace).
+# Copied into out/ on `next build` and uploaded to the web root.
+
+# Serve the exported 404 page for unknown URLs (avoids raw Apache 403/404).
+ErrorDocument 404 /404.html
+
+# Default document for directory requests (each route exports <route>/index.html).
+DirectoryIndex index.html
