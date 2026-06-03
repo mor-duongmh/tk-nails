@@ -64,6 +64,22 @@ export default function ContactSidebar() {
           </a>
           <a
             className="w-12 h-12 rounded-full border border-primary/20 flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-all"
+            href="https://www.tiktok.com/@tknails_naperville"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="material-symbols-outlined">video_library</span>
+          </a>
+          <a
+            className="w-12 h-12 rounded-full border border-primary/20 flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-all"
+            href="https://www.google.com/maps?q=TK+Nails,+3075+Book+Rd+Suite+155,+Naperville,+IL+60564"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="material-symbols-outlined">location_on</span>
+          </a>
+          <a
+            className="w-12 h-12 rounded-full border border-primary/20 flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-all"
             href="https://www.facebook.com/tknailsnaper"
             target="_blank"
             rel="noopener noreferrer"
@@ -80,22 +96,6 @@ export default function ContactSidebar() {
             >
               <path d="M14 13.5h2.5l1-4H14v-2c0-1.03 0-2 2-2h1.5V2.14c-.326-.043-1.557-.14-2.857-.14C11.928 2 10 3.657 10 6.7v2.8H7v4h3V22h4v-8.5z" />
             </svg>
-          </a>
-          <a
-            className="w-12 h-12 rounded-full border border-primary/20 flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-all"
-            href="https://www.tiktok.com/@tknails_naperville"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span className="material-symbols-outlined">video_library</span>
-          </a>
-          <a
-            className="w-12 h-12 rounded-full border border-primary/20 flex items-center justify-center text-primary hover:bg-primary hover:text-on-primary transition-all"
-            href="https://www.google.com/maps?q=TK+Nails,+3075+Book+Rd+Suite+155,+Naperville,+IL+60564"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span className="material-symbols-outlined">location_on</span>
           </a>
         </div>
       </div>
